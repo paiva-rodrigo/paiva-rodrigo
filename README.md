@@ -1,7 +1,7 @@
 ### Hi, I'm Rodrigo
 
 - 🔭 I’m currently working on Augmented Reality in Industry 4.0
-- 🌱 I’m currently learning Augmented Reality, Data Science and computer vision
+- 🌱 I’m currently learning Augmented Reality, Data Science, computer vision and Visual Anal.
 - 📫 contact : rodrigo.josdepaiva@gmail.com
 - 😄 Pronouns: he/her
 
